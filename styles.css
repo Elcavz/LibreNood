@@ -473,10 +473,10 @@ background-color: #333131;
 #searchResults {
   position: absolute;
   top: 50px; 
-  width: 70%;
+  width: 105%;
   max-height: 400px;  
   background-color: transparent; 
-/*  color: white; */
+  left: -50px;
   z-index: 10;
   padding: 15px;
   border-radius: 10px;

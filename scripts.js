@@ -1,4 +1,4 @@
-const API_KEY = 'lagay nyo api key nyo dito';
+const API_KEY = 'b25412885fcb808bb37e93b4c6ccb763';
 const MOVIE_ENDPOINTS = [
   'https://vidlink.pro/movie/',
   'https://vidsrc.dev/embed/movie/',
